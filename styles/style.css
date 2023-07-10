@@ -21,3 +21,14 @@ header {
     display: flex;
     margin-top: 100px;
 }
+
+footer {
+    background: #151414;
+    padding-bottom: 200px;
+    color: #FFF;
+    text-align: center;
+}
+
+.flower-footer {
+    color: #E55473;
+}
