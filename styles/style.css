@@ -27,8 +27,24 @@ footer {
     padding-bottom: 200px;
     color: #FFF;
     text-align: center;
+    margin-top: 100px;
 }
 
 .flower-footer {
     color: #E55473;
+}
+
+.get-deals {
+    background-image: url("../assets/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1260px;
+    height: 470px;
+    border-radius: 8px;
+    margin: 100px 110px 0px 110px;
+}
+
+.deals-content {
+    text-align: center;
+    padding-top: 100px;
 }
