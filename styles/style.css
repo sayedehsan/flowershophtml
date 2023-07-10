@@ -3,4 +3,21 @@ header {
     height: 700px;
     background-color: rgba(235, 85, 118, 0.1);
     display: flex;
+    /* text-align: center; */
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 20px 25px;
+}
+
+.hot-deal {
+    background-color: rgba(235, 85, 118, 0.1);
+    display: flex;
+    margin-top: 100px;
 }
