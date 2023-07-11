@@ -4,6 +4,40 @@ body {
     font-family: 'Work Sans', sans-serif;
 }
 
+nav {
+    width: 1500px;
+    display: flex;
+    background-color: rgba(235, 85, 118, 0.1);
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-title {
+    color: #181818;
+    padding-left: 120px;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+nav>ul {
+    display: flex;
+    align-items: center;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 50px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #474747;
+}
+
+.text-primary {
+    color: #E55473;
+}
+
 header {
     width: 1500px;
     height: 700px;
