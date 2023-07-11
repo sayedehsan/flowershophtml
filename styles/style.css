@@ -99,6 +99,24 @@ header {
     border-top-left-radius: 50%;
 }
 
+.featue-caption {
+    display: flex;
+    gap: 30px;
+    padding-left: 120px;
+}
+
+.text-card-one {
+    width: 385px;
+    height: 400px;
+    text-align: center;
+    color: #272727;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
+
+
 footer {
     background: #151414;
     padding-bottom: 120px;
@@ -149,6 +167,10 @@ small {
     color: #272727;
     font-size: 40px;
     font-weight: 800;
+}
+
+.deal-off {
+    color: #E55473;
 }
 
 .deal-desc {
