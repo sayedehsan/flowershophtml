@@ -107,12 +107,10 @@ header {
 
 .text-card-one {
     width: 385px;
-    height: 400px;
     text-align: center;
     color: #272727;
     font-size: 20px;
     font-weight: 600;
-    line-height: 35px;
     text-decoration-line: underline;
 }
 
