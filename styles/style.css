@@ -22,12 +22,67 @@ header {
     margin-top: 100px;
 }
 
+.feature-img {
+    display: flex;
+    gap: 35px;
+    margin: 100px 120px 0px 120px;
+}
+
+.feature-card-img {
+    width: 220px;
+    height: 328px;
+    padding: 72px 70px 0px 70px;
+}
+
+.img-card-one {
+    background-color: rgba(167, 33, 98, 0.15);
+    width: 385px;
+    height: 400px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+
+.img-card-two {
+    background-color: rgba(5, 151, 160, 0.15);
+    width: 385px;
+    height: 400px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+
+.img-card-three {
+    background-color: rgba(71, 125, 17, 0.15);
+    width: 385px;
+    height: 400px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+
 footer {
     background: #151414;
-    padding-bottom: 200px;
+    padding-bottom: 120px;
     color: #FFF;
     text-align: center;
     margin-top: 100px;
+}
+
+.footer-title {
+    padding-top: 120px;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.footer-desc {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+small {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 30px;
 }
 
 .flower-footer {
