@@ -129,6 +129,13 @@ input[type="text"] {
     padding-left: 20px;
 }
 
+.insta-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding-bottom: 10px;
+}
+
 .insta-img {
     display: flex;
     gap: 15px;
